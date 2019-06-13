@@ -66,7 +66,7 @@ img {
 footer {
   text-transform: uppercase;
   padding: 0 20px;
-  background-color: #0D2C40
+  background-color: #0D2C40;
   color: white;
   font-size: 14px;
   letter-spacing: .08em;
@@ -93,10 +93,10 @@ footer {
 }
 
 .name {
-  color: #F15B31
+  color: #F15B31;
   font-weight: 700;
 }
 
 a:hover {
-  border-color: white;
+  border-bottom: 2px solid white;
 }
